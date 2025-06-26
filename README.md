@@ -106,6 +106,6 @@ pip install numpy
 ✍️ Author
 
 - Shivam Punia – Developer & Designer
-- 📬 [linkedin](shivam-punia-a033a6279)
+- 📬 [LinkedIn](https://www.linkedin.com/in/your-profile/shivam-punia-a033a6279)
 - 💻 [GitHub](https://github.com/Shivampunia)
 
