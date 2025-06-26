@@ -1,6 +1,7 @@
 # 🖐️ Computer Vision Projects with OpenCV – Hand Tracking, Face Detection & Virtual Painter
 
-![Virtual Painter Demo](assets/virtual_painter_demo.png)
+![Screenshot 2025-06-26 120510](https://github.com/user-attachments/assets/430b8106-4ffa-481d-87ea-55ebda321e2d)
+
 
 ---
 
@@ -46,9 +47,6 @@ Draw on a virtual canvas using your hand.
 | Draw on Canvas                | One finger (index)             |
 | Erase                         | One finger in eraser mode      |
 
-### 🖼️ Sample Output:
-![Drawing Mode](assets/drawing_mode.png)
-![Color Selection](assets/color_select.png)
 
 ---
 
@@ -100,10 +98,14 @@ pip install numpy
 
 📸 Screenshots
 
-- Feature	Preview ()
-- Virtual Painter Demo	
-- Drawing Mode	
-- Color Selection Mode	
-- Face Detection Output	
+- Virtual Painter Demo ![Screenshot 2025-06-26 120510](https://github.com/user-attachments/assets/c4ba0129-4cc4-48f7-a6b4-5d93dfbd9c73)
+- Drawing Mode ![Screenshot 2025-06-26 120610](https://github.com/user-attachments/assets/50640d40-bb32-4944-af4b-54c38763cb74)
+- Eeaser Mode ![Screenshot 2025-06-26 120705](https://github.com/user-attachments/assets/bfd1159d-e8cc-4147-935d-5b47464a1be1)
+- Face Detection Output ![Screenshot 2025-06-26 122014](https://github.com/user-attachments/assets/47ab22b0-eac8-497f-8204-fd2659039b9f)
 
+✍️ Author
+
+- Shivam Punia – Developer & Designer
+- 📬 [linkedin](shivam-punia-a033a6279)
+- 💻 [GitHub](https://github.com/Shivampunia)
 
